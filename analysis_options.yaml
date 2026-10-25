@@ -1,0 +1,10 @@
+# Reglas de análisis para los ejemplos de la guía.
+# Se mantienen deliberadamente pocas para no distraer a quien aprende.
+linter:
+  rules:
+    - avoid_empty_else
+    - avoid_relative_lib_imports
+    - prefer_is_empty
+    - prefer_is_not_empty
+    - unnecessary_new
+    - unnecessary_this

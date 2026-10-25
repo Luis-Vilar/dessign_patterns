@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "design_patterns_guide",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.5",
+  "flutterRoot": "file:///home/fetux/fvm/versions/stable",
+  "flutterVersion": "3.47.6",
+  "pubCache": "file:///home/fetux/.pub-cache"
+}

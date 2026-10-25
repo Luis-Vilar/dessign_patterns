@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "design_patterns_guide"
+  ],
+  "packages": [
+    {
+      "name": "design_patterns_guide",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

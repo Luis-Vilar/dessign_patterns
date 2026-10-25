@@ -1,0 +1,7 @@
+name: design_patterns_guide
+description: Guía de patrones de diseño con ejemplos ejecutables en Dart.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
